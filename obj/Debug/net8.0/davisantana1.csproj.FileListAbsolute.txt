@@ -1,0 +1,15 @@
+C:\Users\davi.santana\Documents\davi1\davisantana1\bin\Debug\net8.0\davisantana1.exe
+C:\Users\davi.santana\Documents\davi1\davisantana1\bin\Debug\net8.0\davisantana1.deps.json
+C:\Users\davi.santana\Documents\davi1\davisantana1\bin\Debug\net8.0\davisantana1.runtimeconfig.json
+C:\Users\davi.santana\Documents\davi1\davisantana1\bin\Debug\net8.0\davisantana1.dll
+C:\Users\davi.santana\Documents\davi1\davisantana1\bin\Debug\net8.0\davisantana1.pdb
+C:\Users\davi.santana\Documents\davi1\davisantana1\obj\Debug\net8.0\davisantana1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davi.santana\Documents\davi1\davisantana1\obj\Debug\net8.0\davisantana1.AssemblyInfoInputs.cache
+C:\Users\davi.santana\Documents\davi1\davisantana1\obj\Debug\net8.0\davisantana1.AssemblyInfo.cs
+C:\Users\davi.santana\Documents\davi1\davisantana1\obj\Debug\net8.0\davisantana1.csproj.CoreCompileInputs.cache
+C:\Users\davi.santana\Documents\davi1\davisantana1\obj\Debug\net8.0\davisantana1.sourcelink.json
+C:\Users\davi.santana\Documents\davi1\davisantana1\obj\Debug\net8.0\davisantana1.dll
+C:\Users\davi.santana\Documents\davi1\davisantana1\obj\Debug\net8.0\refint\davisantana1.dll
+C:\Users\davi.santana\Documents\davi1\davisantana1\obj\Debug\net8.0\davisantana1.pdb
+C:\Users\davi.santana\Documents\davi1\davisantana1\obj\Debug\net8.0\davisantana1.genruntimeconfig.cache
+C:\Users\davi.santana\Documents\davi1\davisantana1\obj\Debug\net8.0\ref\davisantana1.dll
